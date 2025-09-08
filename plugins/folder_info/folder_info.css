@@ -7,9 +7,11 @@
 }
 
 .folder_info span {
+  color: #ab7619 !important;
   font-weight: bold;
   display: block;
   text-align: center;
   background-color: #F9EDBE;
   padding: 4px;
+  border-radius: 4px 0 0 0;
 }

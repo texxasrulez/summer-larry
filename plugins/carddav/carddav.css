@@ -70,12 +70,12 @@
 
 #addressbooks-table li.account.preset > a {
     background-image: url(images/listicons.png), url(images/listicons.png);
-    background-position: 6px -478px, 16px -2273px;
+    background-position: 6px -502px, 16px -2273px;
 }
 #addressbooks-table li.account.preset > a:focus,
 #addressbooks-table li.account.preset.selected > a {
     background-image: url(images/listicons.png), url(images/listicons.png);
-    background-position: 6px -502px, 16px -2273px;
+    background-position: 6px -478px, 16px -2273px;
 }
 
 /* Addressbooks nested inside the accounts */
@@ -88,11 +88,11 @@
 
 #addressbooks-table li.addressbook a {
     padding-left: 52px;  /* 36 + 1 x 16 */
-    background-position: 22px -766px;  /* 6 + 1 x 16 */
+    background-position: 22px -791px;  /* 6 + 1 x 16 */
 }
 #addressbooks-table li.addressbook > a:focus,
 #addressbooks-table li.addressbook.selected > a {
-    background-position: 22px -791px;
+    background-position: 22px -766px;
 }
 #addressbooks-table li.addressbook div.treetoggle {
     left: 33px;

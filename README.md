@@ -10,7 +10,7 @@ CSS Fixes and code cleanup.
 
 **Composer Install**
 ```
-composer require "texxasrulez/summer-larry:~1.0"
+composer require "texxasrulez/summer-larry"
 ```
 
 **Compatible with RC Version: 1.4.x and beyond**
@@ -53,6 +53,8 @@ tasklist\
 vcard_attachments\
 zipdownload
 
+---
+
 The Larry Skin from Roundcube 1.3 was used, so you must be running RC 1.3 or higher.
 
 Keep coming back often as I have plans on at least 18 total skins.
@@ -63,6 +65,7 @@ Note: Current Commit should be a working version of my ongoing nitpicking of som
 
 Latest Update makes skins compatible with Roundcube 1.4 ...
 
+---
 
 :moneybag: **Donations** :moneybag:
 
@@ -70,6 +73,11 @@ If you use these Skins and would like to show your appreciation by buying me a c
 Zelle (Zelle is integrated within many major banks Mobile Apps by default) - Just send to texxasrulez at yahoo dot com \
 No Zelle in your banks mobile app, no problem, just click [Paypal](https://paypal.me/texxasrulez?locale.x=en_US) and I can make a Starbucks run ...
 
+---
+
+**Screenshot**
+
+![Summer Larry Skin](images/summer-mail.png?raw=true "Summer Larry Skin")
 
 Original Author Credits:
 Larry

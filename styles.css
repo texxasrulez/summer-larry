@@ -206,14 +206,6 @@ button {
 	outline: none;
 }
 
-button.mainaction {
-	color: #fdf6f3 !important;
-}
-
-button.listmenucancel {
-	color: #fdf6f3 !important;
-}
-
 .formbuttons button {
 	color: #fdf6f3;
 	font-size: 110%;

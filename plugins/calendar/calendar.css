@@ -1076,6 +1076,24 @@ td.topalign {
 	text-align: center;
 }
 
+.event-update-confirm a.button.btn-secondary {
+	color: #fff !important;
+	border-color: #ccb159;
+	background: #81570d;
+	text-decoration: none;
+}
+
+.event-update-confirm a.button.btn-secondary:hover,
+.event-update-confirm a.button.btn-secondary:focus {
+	color: #fff;
+	background: #523710;
+}
+
+.event-update-confirm a.button.btn-secondary.disabled {
+	opacity: 0.5;
+	cursor: default;
+}
+
 .libcal-rsvp-replymode li a {
 	cursor: default;
 }

@@ -877,7 +877,7 @@ div.hide-headers {
 	right: 8px;
 	width: 230px;
 	min-height: 200px;
-	background: #f2eee6;
+	background: #eadfbc;
 	padding: 8px;
 	border-radius: 4px;
 	z-index: 1;
@@ -889,7 +889,7 @@ div.hide-headers {
 
 #messagebody {
 	color: #81570d;
-	background: #f2eee6;
+	background: #eadfbc;
 	position: relative;
 	margin: 8px;
 }
